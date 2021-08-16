@@ -1,0 +1,11 @@
+ Volume in drive C has no label.
+ Volume Serial Number is 426F-5074
+
+ Directory of C:\Users\Mehak\Desktop\Practice Projects\TestMergingRepoB
+
+08/16/2021  01:40 PM    <DIR>          .
+08/16/2021  01:40 PM    <DIR>          ..
+08/16/2021  01:40 PM                 0 deleteme.txt
+08/16/2021  01:39 PM                18 README.md
+               2 File(s)             18 bytes
+               2 Dir(s)  12,487,012,352 bytes free
